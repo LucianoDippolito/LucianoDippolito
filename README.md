@@ -3,6 +3,7 @@
 <img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 <h2>About me</h2>
 <p> I am Luciano, a Full Stack Developer with strong Front-End skills and Back-End experience using technologies such as JavaScript, TypeScript, CSS, React, Redux, Node.js, PostgreSQL, etc. My approach is to create intuitive and attractive interfaces while building robust and scalable systems.
+  
 Thanks to my project history, I have experience working both alone and in groups. I am committed to continuous improvement and effective problem solving in agile environments. Passionate about innovation, I am willing to contribute my skills and enthusiasm to each project.
 </p>
 
