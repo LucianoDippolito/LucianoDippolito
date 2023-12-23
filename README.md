@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
 <h3 align="center">Full Stack developer from Argentina</h3>
 <img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
+<h2>About me</h2>
+<p> I am Luciano, a Full Stack Developer with strong Front-End skills and Back-End experience using technologies such as JavaScript, TypeScript, CSS, React, Redux, Node.js, PostgreSQL, etc. My approach is to create intuitive and attractive interfaces while building robust and scalable systems.
+
+With a history of projects that gave me experience working both alone and in a group. I am committed to continuous improvement and effective problem solving in agile environments. Passionate about innovation, I am ready to bring my skills and enthusiasm to each project. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianodippolito&label=Profile%20views&color=0e75b6&style=flat" alt="lucianodippolito" /> </p>
 
